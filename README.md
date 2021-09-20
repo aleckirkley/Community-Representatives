@@ -4,4 +4,5 @@ Class and function definitions in Cython, with wrapping in Python for easy use.
 Requires igraph network object and list of candidate partitions as input.
 
 If you use this algorithm please cite:
+
 A. Kirkley and M. E. J. Newman, Representative community divisions of networks. Preprint arXiv:2105.04612 (2021).
